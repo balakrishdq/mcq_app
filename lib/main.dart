@@ -16,41 +16,41 @@ class _MyAppState extends State<MyApp> {
     {
       'question': 'What is your fauv color?',
       'answer': [
-        {'text': 'Black', 'score': 10},
-        {'text': 'Rose', 'score': 7},
-        {'text': 'Green', 'score': 9},
+        {'text': 'Black', 'score': 5},
+        {'text': 'Rose', 'score': 4},
+        {'text': 'Green', 'score': 3},
         {'text': 'Dark Blue', 'score': 5},
-        {'text': 'Violet', 'score': 6}
+        {'text': 'Violet', 'score': 2}
       ],
     },
     {
       'question': 'What is your name?',
       'answer': [
-        {'text': 'Jerry', 'score': 10},
-        {'text': 'Rose', 'score': 7},
-        {'text': 'Harry', 'score': 9},
-        {'text': 'Jimmy', 'score': 5},
-        {'text': 'Darwin', 'score': 6}
+        {'text': 'Jerry', 'score': 3},
+        {'text': 'Rose', 'score': 5},
+        {'text': 'Harry', 'score': 5},
+        {'text': 'Jimmy', 'score': 2},
+        {'text': 'Darwin', 'score': 1}
       ],
     },
     {
       'question': 'What is your fauv place?',
       'answer': [
-        {'text': 'Switzerland', 'score': 10},
-        {'text': 'France', 'score': 7},
-        {'text': 'India', 'score': 9},
-        {'text': 'Germany', 'score': 5},
-        {'text': 'Dubai', 'score': 6}
+        {'text': 'Switzerland', 'score': 4},
+        {'text': 'France', 'score': 2},
+        {'text': 'India', 'score': 1},
+        {'text': 'Germany', 'score': 4},
+        {'text': 'Dubai', 'score': 5}
       ],
     },
     {
       'question': 'What is the model of your  vehicle?',
       'answer': [
-        {'text': '2008', 'score': 10},
-        {'text': '2001', 'score': 7},
-        {'text': '2022', 'score': 9},
-        {'text': '2014', 'score': 5},
-        {'text': '2020', 'score': 6}
+        {'text': '2008', 'score': 1},
+        {'text': '2001', 'score': 5},
+        {'text': '2022', 'score': 4},
+        {'text': '2014', 'score': 3},
+        {'text': '2020', 'score': 2}
       ],
     },
   ];
